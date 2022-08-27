@@ -1,0 +1,5 @@
+{ 
+    "windows.zoomlevel": 1,
+    "windows.menuBarVisibility": "toggle",
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+  }
